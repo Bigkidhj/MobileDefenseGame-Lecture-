@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Tutorial/MobileDefenseGame/Packages/manifest.json
+    m_FilePath: D:/Tutorial/MobileDefenseGame-Lecture-/MobileDefenseGame/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 637909396034642342
     m_Hash: 1766177520
   m_LockFileStatus:
-    m_FilePath: D:/Tutorial/MobileDefenseGame/Packages/packages-lock.json
+    m_FilePath: D:/Tutorial/MobileDefenseGame-Lecture-/MobileDefenseGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.4
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.2d.animation@5.0.4
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.2d.animation@5.0.4
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -126,11 +126,14 @@ m_PackageAssets:
         - 7.0.3
         - 7.0.4
         - 7.0.5
+        - 7.0.6
         - 8.0.0-pre.3
         - 8.0.0-pre.4
         - 8.0.0
         - 8.0.1
+        - 8.0.2
         - 9.0.0-pre.1
+        - 9.0.0-pre.3
         compatible:
         - 5.0.4
         - 5.0.5
@@ -299,7 +302,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.7.1
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.ads@3.7.1
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.ads@3.7.1
       assetPath: Packages/com.unity.ads
       name: com.unity.ads
       displayName: Advertisement
@@ -359,6 +362,7 @@ m_PackageAssets:
         - 4.0.0
         - 4.0.1
         - 4.1.0
+        - 4.2.1
         compatible:
         - 0.0.3
         - 0.0.4
@@ -404,6 +408,7 @@ m_PackageAssets:
         - 4.0.0
         - 4.0.1
         - 4.1.0
+        - 4.2.1
         verified: 3.7.5
       dependencies:
       - name: com.unity.ugui
@@ -443,7 +448,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.5.3
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.analytics@3.5.3
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.analytics@3.5.3
       assetPath: Packages/com.unity.analytics
       name: com.unity.analytics
       displayName: Analytics Library
@@ -575,7 +580,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -628,6 +633,7 @@ m_PackageAssets:
         - 1.14.15
         - 1.14.16
         - 1.14.17
+        - 1.14.18
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -637,6 +643,7 @@ m_PackageAssets:
         - 1.15.15
         - 1.15.16
         - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -664,6 +671,7 @@ m_PackageAssets:
         - 1.14.15
         - 1.14.16
         - 1.14.17
+        - 1.14.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -713,7 +721,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -830,7 +838,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -923,7 +931,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -996,7 +1004,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.2
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.purchasing@3.0.2
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.purchasing@3.0.2
       assetPath: Packages/com.unity.purchasing
       name: com.unity.purchasing
       displayName: In App Purchasing
@@ -1073,6 +1081,7 @@ m_PackageAssets:
         - 4.1.2
         - 4.1.3
         - 4.1.4
+        - 4.1.5
         - 4.2.0-pre.1
         - 4.2.0-pre.2
         compatible:
@@ -1120,6 +1129,7 @@ m_PackageAssets:
         - 4.1.2
         - 4.1.3
         - 4.1.4
+        - 4.1.5
         - 4.2.0-pre.1
         - 4.2.0-pre.2
         verified: 3.0.2
@@ -1178,7 +1188,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1282,7 +1292,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1448,7 +1458,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1677,7 +1687,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.1.7
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
       assetPath: Packages/com.unity.xr.legacyinputhelpers
       name: com.unity.xr.legacyinputhelpers
       displayName: XR Legacy Input Helpers
@@ -3515,7 +3525,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3578,7 +3588,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.3
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.2d.common@4.0.3
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.2d.common@4.0.3
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3679,7 +3689,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: D:\Tutorial\MobileDefenseGame\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: D:\Tutorial\MobileDefenseGame-Lecture-\MobileDefenseGame\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3757,5 +3767,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: D:/Tutorial/MobileDefenseGame/Packages
+m_ProjectPath: D:/Tutorial/MobileDefenseGame-Lecture-/MobileDefenseGame/Packages
 m_EditorVersion: 2020.3.9f1 (108be757e447)
