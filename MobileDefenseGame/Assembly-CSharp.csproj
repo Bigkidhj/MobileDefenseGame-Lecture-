@@ -64,11 +64,12 @@
     <Compile Include="Assets\Scripts\CreateCharacter.cs" />
     <Compile Include="Assets\Scripts\FindMonster.cs" />
     <Compile Include="Assets\Scripts\CharacterBehavior.cs" />
+    <Compile Include="Assets\Scripts\BulletStat.cs" />
     <Compile Include="Assets\Scripts\StartManager.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\CharacterStat.cs" />
     <Compile Include="Assets\Scripts\MonsterStat.cs" />
-    <Compile Include="Assets\Scripts\BulletStat.cs" />
+    <Compile Include="Assets\Scripts\ObjectPooler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
